@@ -5,7 +5,7 @@ import pandas as pd
 import pydeck as pdk
 import streamlit as st
 import requests
-import streamlit_lottie as st_lottie
+from streamlit import lottie
 #from streamlit_lottie import st_lottie
 
 # SETTING PAGE CONFIG TO WIDE MODE AND ADDING A TITLE AND FAVICON
