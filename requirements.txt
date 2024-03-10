@@ -106,7 +106,7 @@ SQLAlchemy==2.0.21
 sqlparse==0.4.4
 streamlit
 streamlit-folium
-streamlit-lottie
+streamlit_lottie
 streamlit-option-menu
 tenacity==8.2.3
 threadpoolctl==3.2.0
