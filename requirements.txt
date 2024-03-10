@@ -23,12 +23,12 @@ dnspython==2.4.1
 et-xmlfile==1.1.0
 fabio==2023.6.0
 Flask==2.3.3
-folium
+folium==0.16.0
 fonttools==4.42.0
 frozendict==2.4.0
 frozenlist==1.4.0
 gcloud==0.18.3
-geoip2
+geoip2==4.7.0
 gitdb==4.0.11
 GitPython==3.1.41
 googleapis-common-protos==1.59.1
@@ -81,7 +81,7 @@ pypng==0.20220715.0
 PyQt5==5.15.9
 PyQt5-Qt5==5.15.2
 PyQt5-sip==12.12.2
-Pyrebase4
+Pyrebase4==4.7.1
 python-dateutil==2.8.2
 python-jwt==4.0.0
 pytz==2023.3
@@ -90,8 +90,8 @@ qrcode==7.4.2
 referencing==0.32.1
 regex==2023.8.8
 reportlab==4.0.4
-requests>=2.24.0,<3.0.0
-requests-toolbelt
+requests==2.29.0
+requests-toolbelt==0.10.1
 rich==13.7.0
 rpds-py==0.17.1
 rsa==4.9
@@ -104,10 +104,10 @@ smmap==5.0.1
 soupsieve==2.5
 SQLAlchemy==2.0.21
 sqlparse==0.4.4
-streamlit
-streamlit-folium
-streamlit-lottie
-streamlit-option-menu
+streamlit==1.32.0
+streamlit-folium==0.18.0
+streamlit-lottie==0.0.5
+streamlit-option-menu==0.3.12
 tenacity==8.2.3
 threadpoolctl==3.2.0
 toml==0.10.2
@@ -125,5 +125,5 @@ Werkzeug==2.3.7
 wrapt==1.15.0
 xyzservices==2023.10.1
 yarl==1.9.2
-yfinance
+yfinance==0.2.25
 zipp==3.17.0
