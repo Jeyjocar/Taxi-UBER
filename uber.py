@@ -1,6 +1,5 @@
 import os
 import altair as alt
-import lottie
 import numpy as np
 import pandas as pd
 import pydeck as pdk
