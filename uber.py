@@ -5,7 +5,7 @@ import pandas as pd
 import pydeck as pdk
 import streamlit as st
 import requests
-from streamlit import st_lottie
+from streamlit import streamlit_lottie as st_lottie
 
 # SETTING PAGE CONFIG TO WIDE MODE AND ADDING A TITLE AND FAVICON
 st.set_page_config(layout="wide", page_title="TAXIMETRO nyc", page_icon=":car:")
